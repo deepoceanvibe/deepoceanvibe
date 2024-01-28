@@ -1,4 +1,4 @@
-<div style="margin-left: 20%;">
+<div style="margin-left: 20px;">
 ### Hi there 👋
 
 안녕하세요, 이제 달리기 시작한 개발자 유정원 입니다.
