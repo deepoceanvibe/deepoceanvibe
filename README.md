@@ -10,3 +10,10 @@
 😎 <b>Skills</b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepoceanvibe)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+📞 <b>Contact</b>
+
++82 10-2311-0554
+aura0211@naver.com
