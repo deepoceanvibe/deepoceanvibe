@@ -7,7 +7,7 @@
 
 <br>
 
-😎 <b>Skills</b>
+😎 <b>Languages</b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepoceanvibe)](https://github.com/anuraghazra/github-readme-stats)
 
