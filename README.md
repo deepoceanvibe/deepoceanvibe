@@ -19,4 +19,4 @@
 
 ### 📞 Contact
 
-+82 10-2311-0554 / <b>aura0211[at]naver[dot]com</b>
++82 10-2311-0554 / <b>aura0211@naver.com</b>
