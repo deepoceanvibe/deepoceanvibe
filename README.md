@@ -1,12 +1,6 @@
 <div align="center">
 
-### Hi there 👋
-
-안녕하세요, 이제 달리기 시작한 개발자 유정원 입니다.
-
-<br>
-
-### 😎 My Blog
+### 😎 Blog
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=oceanyu)](https://velog.io/@oceanyu/posts) <p>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=oceanyu)](https://velog.io/@oceanyu/posts) 
