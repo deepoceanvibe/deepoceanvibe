@@ -1,21 +1,19 @@
-<div align="center">
 
-### 😎 Blog
+
+### Blog
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=oceanyu)](https://velog.io/@oceanyu/posts) <p>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=oceanyu)](https://velog.io/@oceanyu/posts) 
 
-<br>
 
-### 😎 Languages
+### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepoceanvibe)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
 
-### 📚 Stacks
+### Stacks
 
-<div align=center> 
+<div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -40,10 +38,8 @@
   <br>
 </div>
 
-<br>
 
-
-### 📞 Contact
+### Contact
 
 +82 10-2311-0554 / <b>aura0211@naver.com</b>
 
