@@ -41,6 +41,6 @@
 
 ### Contact
 
-deepocean@gmail.com / aura0211@naver.com
+d22pocean@gmail.com / aura0211@naver.com
 
 </div>
