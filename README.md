@@ -41,6 +41,6 @@
 
 ### Contact
 
-+82 10-2311-0554 / <b>aura0211@naver.com</b>
+deepocean@gmail.com / aura0211@naver.com
 
 </div>
